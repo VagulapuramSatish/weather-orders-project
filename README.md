@@ -6,7 +6,7 @@ Python script that checks weather for each order’s city and flags potential de
 - Flags orders as Delayed if Rain, Snow, or Extreme
 - Generates personalized weather-aware apology messages
 - Handles invalid cities gracefully
-- Uses .env for API keys (no hardcoding
+- Uses .env for API keys (no hardcoding)
 
 ***Setup*** : 
 
