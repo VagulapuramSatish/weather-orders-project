@@ -11,7 +11,7 @@ Python script that checks weather for each order’s city and flags potential de
 ***Setup*** : 
 
 Clone repo and install dependencies:
-- git clone https://github.com/<your-username>/weather-orders-project.git
+- git clone https://github.com/your-username/weather-orders-project.git
 - cd weather-orders-project
 - pip install -r requirements.txt
 
